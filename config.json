@@ -1,0 +1,15 @@
+{
+  "token": "tokenin",
+  "clientId": "clientid",
+  "guildIds": ["guildid"],
+
+  "allowedChannels": {
+    "ücretsiz": ["channelid"],
+    "premium": ["channelid"]
+  },
+
+  "cooldowns": {
+    "ücretsiz": 3600,
+    "premium": 18
+  }
+}
