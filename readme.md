@@ -23,3 +23,6 @@ Bu bot, kullanıcılara belirli kanallarda **ücretsiz** ve **premium** hesaplar
 ```bash
 git clone https://github.com/edwizl/genbot.git
 cd genbot
+
+## iletişim
+discord:edwizl.
