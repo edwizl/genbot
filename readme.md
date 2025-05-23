@@ -1,4 +1,4 @@
-# KalorantShop Discord Botu 🎮
+# Gen Bot
 
 Bu bot, kullanıcılara belirli kanallarda **ücretsiz** ve **premium** hesaplar sunmak için tasarlanmıştır. Hesap bilgileri `.txt` dosyalarından çekilir, kullanıcıya DM ile iletilir ve kalan stok embed olarak kanala gönderilir.
 
