@@ -18,10 +18,9 @@ Bu bot, kullanıcılara belirli kanallarda **ücretsiz** ve **premium** hesaplar
 
 ## 📦 Kurulum
 
-### 1. Bu projeyi klonla
+### 1. Bu projeyi Kur
 
 ```bash
-git clone https://github.com/edwizl/genbot.git
 npm install
 node index.js
 ```
